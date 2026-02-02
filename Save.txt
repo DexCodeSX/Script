@@ -1,1 +1,29 @@
--- lol
+Title "Fly / Noclip (Universal)"
+Game "Universal"
+Script "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()"
+Image "14046633466"
+Key "false"
+
+Title "DarkDex V3"
+Game "Universal"
+Script "loadstring(game:HttpGet('https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua', true))()"
+Image "106145404953445"
+Key "false"
+
+Title "Orca Hub (Blox Fruits)"
+Game "Blox Fruits"
+Script "print('Orca Hub Loading...')"
+Image "134724289526879"
+Key "true"
+
+Title "Azure Modded"
+Game "Arsenal"
+Script "print('Azure Loaded')"
+Image "127843403295538"
+Key "true"
+
+Title "Remote Spy"
+Game "Universal"
+Script "loadstring(game:HttpGet('https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua'))()"
+Image "106783148545356"
+Key "false"
