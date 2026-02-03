@@ -1,7 +1,7 @@
 Title "Fly / Noclip (Universal)"
 Game "Universal"
 Script "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()"
-Image "14046633466"
+Image "132145333101371"
 Key "false"
 
 Title "DarkDex V3"
